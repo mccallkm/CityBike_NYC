@@ -1,7 +1,7 @@
 # CityBike_NYC -under construction!!
 
 
-![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/Images/citi-bike-stations.png]
+![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/Images/citi-bike-station-bikes.jpg)
 
 The data includes:
 
