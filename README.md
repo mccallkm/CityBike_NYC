@@ -1,7 +1,7 @@
 # CityBike_NYC -under construction!!
 
 
-![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/images/MplsSL.jpg)
+![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/images/https://github.com/mccallkm/CityBike_NYC/commit/5efe2277ef28bbbd5f79b636934f7d76f7f8bdef)
 
 The data includes:
 
