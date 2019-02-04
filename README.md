@@ -1,5 +1,8 @@
 # CityBike_NYC -under construction!!
 
+
+![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/images/MplsSL.jpg)
+
 The data includes:
 
 Trip Duration (seconds)
