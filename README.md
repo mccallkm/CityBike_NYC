@@ -13,3 +13,5 @@ Bike ID
 User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
+
+
