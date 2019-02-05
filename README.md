@@ -16,6 +16,4 @@ User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Membe
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
 
-See html for dashboard
-
 
