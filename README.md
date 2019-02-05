@@ -17,4 +17,4 @@ User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Membe
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
 
-
+https://public.tableau.com/views/2016_2018_CityBike_Data/CityBikeTripsStory?:embed=y&:display_count=yes&publish=yes
