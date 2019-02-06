@@ -18,4 +18,8 @@ User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Membe
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
 
+Data was prepped and cleaned using Python Pandas. Visualizations can be found in the Tableau workbooks saved in this repository. Note, Trip Duration was converted from seconds to hours, Gender values 0,1,2 we converted to their descriptors and Year of Birth was converted to a users age as of February 2019. 
+
+For findings and analysis recap on the 2016 and 2018 data see the PowerPoint presentation in this repository.
+
 
