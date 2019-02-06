@@ -1,9 +1,11 @@
-# CityBike_NYC -under construction!!
-
-
+# CityBike_NYC 
 ![alt text](https://raw.githubusercontent.com/mccallkm/CityBike_NYC/master/Images/citi-bike-station-bikes.jpg)
 
-The data includes:
+NY bike rides have been incrementally increasing since the first launch of Citi Bike in 2013. An analysis of the trends in number of users, subscriber type, where rides start and end were examined for January 2016 vs. January 2018. This data was limited to one month due to file size but can be replicated to analyze full years or specific quarters. 
+
+The data set were pulled directly from this source site. 
+
+Each excel file includes the following data elements:
 Trip Duration (seconds)
 Start Time and Date
 Stop Time and Date
